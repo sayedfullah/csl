@@ -1,0 +1,1 @@
+function atest(){alert("ates")};
