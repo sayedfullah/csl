@@ -16,10 +16,10 @@ class Xname
     }
   
    
-    test()
+    this.test()
     {
         alert("container: " + this.res);
-    }
+    };
     
     this.layout()
     {
